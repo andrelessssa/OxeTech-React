@@ -5,9 +5,9 @@ function Formulario(){
     return(
         <div>
             <form >
-            <CampoText label="Cargo "/>
-            <CampoText label="Imagem "/>
-            <CampoText label="Time "/>
+            <CampoText label="Cargo " placeholder="Digite seu Nome"/>
+            <CampoText label="Imagem " placeholder="Digite seu Cargo" />
+            <CampoText label="Time " placeholder="Digite o endereço da imagem"/>
             </form>
         </div>
     )
