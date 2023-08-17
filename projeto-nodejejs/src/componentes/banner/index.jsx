@@ -4,10 +4,9 @@ import Header from "../../assets/Header@2x.png";
     
 function Banner  ()  {
     return(
-        <div>
+        <div >
             <img  src="./src/assets/HeaderHeader_total.png" alt="banner" />          
         </div>
         )
 }
-
 export default Banner;
