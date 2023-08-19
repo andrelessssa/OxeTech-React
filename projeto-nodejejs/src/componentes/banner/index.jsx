@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../../assets/Header@2x.png";
+
 
     
 function Banner  ()  {
