@@ -1,0 +1,15 @@
+.campotexto_area{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    font-weight: bold;
+    
+    
+
+}
+.campotexto_area input{
+    padding: 1rem;
+    border: 0;
+    width: 100%;
+}
