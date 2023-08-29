@@ -2,12 +2,14 @@ import { useState } from 'react'
 import './App.css'
 import Banner from './componentes/banner';
 import Formulario from './componentes/formulario';
+import {useState} from 'react'
 
 
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  
+  const [nome, setNome] = useState(0)
   return (
    <div className='container'>
       <Banner />
